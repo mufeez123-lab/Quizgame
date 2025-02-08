@@ -1,4 +1,4 @@
-# MERN Quiz Game
+# FullStack Quiz Game
 
 ## Overview
 This is a **Quiz Game** built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. The game fetches quiz questions from an API, stores them in a MongoDB database, and presents them in a fun and interactive UI. Players answer multiple-choice questions and receive a final score at the end.
